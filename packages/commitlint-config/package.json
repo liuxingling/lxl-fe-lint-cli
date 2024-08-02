@@ -1,0 +1,16 @@
+{
+  "name": "lxl-commitlint-config",
+  "version": "0.0.0",
+  "main": "index.js",
+  "description": "星爷 Git规范",
+  "keywords": [
+    "lxl",
+    "commit",
+    "lint"
+  ],
+  "author": "xingye",
+  "dependencies": {
+    "conventional-changelog-conventionalcommits": "^8.0.0"
+  },
+  "gitHead": "1a81afb21f24348c6240aa8eee373dda7cce50d6"
+}

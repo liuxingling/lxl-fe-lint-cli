@@ -1,0 +1,16 @@
+{
+  "name": "lxl-markdownlint-config",
+  "version": "0.0.0",
+  "main": "index.json",
+  "description": "星爷 文档规范",
+  "keywords": [
+    "lxl",
+    "markdown",
+    "lint"
+  ],
+  "author": "xingye",
+  "peerDependencies": {
+    "markdownlint": "^0.34.0"
+  },
+  "gitHead": "1a81afb21f24348c6240aa8eee373dda7cce50d6"
+}
